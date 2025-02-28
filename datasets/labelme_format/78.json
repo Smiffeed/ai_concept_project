@@ -1,0 +1,61 @@
+{
+  "version": "5.6.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "หมายเลขภาษีผู้ซื้อ (buyer_vat_number)",
+      "points": [
+        [
+          1116,
+          1184
+        ],
+        [
+          1453,
+          1245
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ชื่อผู้ขายภาษาไทย (seller_name_thai)",
+      "points": [
+        [
+          182,
+          132
+        ],
+        [
+          957,
+          213
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "หมายเลขภาษีผู้ขาย (seller_vat_number)",
+      "points": [
+        [
+          704,
+          280
+        ],
+        [
+          988,
+          349
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "78.jpg"
+}
