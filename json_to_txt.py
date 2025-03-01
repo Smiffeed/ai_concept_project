@@ -50,6 +50,6 @@ def convert_labelme_to_yolo(json_dir, output_dir):
                 f.write(f"{class_id} {x_center} {y_center} {width} {height}\n")
 
 # Convert LabelMe JSON annotations
-json_dir = "datasets/labels"
-output_dir = "datasets/yolo_labels"
+json_dir = "test/"
+output_dir = "test"
 convert_labelme_to_yolo(json_dir, output_dir)

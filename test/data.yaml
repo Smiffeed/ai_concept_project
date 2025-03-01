@@ -1,0 +1,11 @@
+path: ./  # Path to the test folder
+test: images  # Path to test images relative to 'path'
+
+names:
+  0: buyer_name_thai
+  1: buyer_name_eng
+  2: seller_name_thai
+  3: seller_name_eng
+  4: buyer_vat_number
+  5: seller_vat_number
+  6: total_due_amount
